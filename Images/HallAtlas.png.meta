@@ -1,0 +1,2568 @@
+fileFormatVersion: 2
+guid: 87479b8d77d499f4c8633af7d7330bde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      89: 8900000
+    second: generatedCubemap
+  - first:
+      213: 21300000
+    second: HallAtlas_0
+  - first:
+      213: 21300002
+    second: HallAtlas_1
+  - first:
+      213: 21300004
+    second: HallAtlas_2
+  - first:
+      213: 21300006
+    second: HallAtlas_3
+  - first:
+      213: 21300008
+    second: HallAtlas_4
+  - first:
+      213: 21300010
+    second: HallAtlas_5
+  - first:
+      213: 21300012
+    second: HallAtlas_6
+  - first:
+      213: 21300014
+    second: HallAtlas_7
+  - first:
+      213: 21300016
+    second: HallAtlas_8
+  - first:
+      213: 21300018
+    second: HallAtlas_9
+  - first:
+      213: 21300020
+    second: HallAtlas_10
+  - first:
+      213: 21300022
+    second: HallAtlas_11
+  - first:
+      213: 21300024
+    second: HallAtlas_12
+  - first:
+      213: 21300026
+    second: HallAtlas_13
+  - first:
+      213: 21300028
+    second: HallAtlas_14
+  - first:
+      213: 21300030
+    second: HallAtlas_15
+  - first:
+      213: 21300032
+    second: HallAtlas_16
+  - first:
+      213: 21300034
+    second: HallAtlas_17
+  - first:
+      213: 21300036
+    second: HallAtlas_18
+  - first:
+      213: 21300038
+    second: HallAtlas_19
+  - first:
+      213: 21300040
+    second: HallAtlas_20
+  - first:
+      213: 21300042
+    second: HallAtlas_21
+  - first:
+      213: 21300044
+    second: HallAtlas_22
+  - first:
+      213: 21300046
+    second: HallAtlas_23
+  - first:
+      213: 21300048
+    second: HallAtlas_24
+  - first:
+      213: 21300050
+    second: HallAtlas_25
+  - first:
+      213: 21300052
+    second: HallAtlas_26
+  - first:
+      213: 21300054
+    second: HallAtlas_27
+  - first:
+      213: 21300056
+    second: HallAtlas_28
+  - first:
+      213: 21300058
+    second: HallAtlas_29
+  - first:
+      213: 21300060
+    second: HallAtlas_30
+  - first:
+      213: 21300062
+    second: HallAtlas_31
+  - first:
+      213: 21300064
+    second: HallAtlas_32
+  - first:
+      213: 21300066
+    second: HallAtlas_33
+  - first:
+      213: 21300068
+    second: HallAtlas_34
+  - first:
+      213: 21300070
+    second: HallAtlas_35
+  - first:
+      213: 21300072
+    second: HallAtlas_36
+  - first:
+      213: 21300074
+    second: HallAtlas_37
+  - first:
+      213: 21300076
+    second: HallAtlas_38
+  - first:
+      213: 21300078
+    second: HallAtlas_39
+  - first:
+      213: 21300080
+    second: HallAtlas_40
+  - first:
+      213: 21300082
+    second: HallAtlas_41
+  - first:
+      213: 21300084
+    second: HallAtlas_42
+  - first:
+      213: 21300086
+    second: HallAtlas_43
+  - first:
+      213: 21300088
+    second: HallAtlas_44
+  - first:
+      213: 21300090
+    second: HallAtlas_45
+  - first:
+      213: 21300092
+    second: HallAtlas_46
+  - first:
+      213: 21300094
+    second: HallAtlas_47
+  - first:
+      213: 21300096
+    second: HallAtlas_48
+  - first:
+      213: 21300098
+    second: HallAtlas_49
+  - first:
+      213: 21300100
+    second: HallAtlas_50
+  - first:
+      213: 21300102
+    second: HallAtlas_51
+  - first:
+      213: 21300104
+    second: HallAtlas_52
+  - first:
+      213: 21300106
+    second: HallAtlas_53
+  - first:
+      213: 21300108
+    second: HallAtlas_54
+  - first:
+      213: 21300110
+    second: HallAtlas_55
+  - first:
+      213: 21300112
+    second: HallAtlas_56
+  - first:
+      213: 21300114
+    second: HallAtlas_57
+  - first:
+      213: 21300116
+    second: HallAtlas_58
+  - first:
+      213: 21300118
+    second: HallAtlas_59
+  - first:
+      213: 21300120
+    second: HallAtlas_60
+  - first:
+      213: 21300122
+    second: HallAtlas_61
+  - first:
+      213: 21300124
+    second: HallAtlas_62
+  - first:
+      213: 21300126
+    second: HallAtlas_63
+  - first:
+      213: 21300128
+    second: HallAtlas_64
+  - first:
+      213: 21300130
+    second: HallAtlas_65
+  - first:
+      213: 21300132
+    second: HallAtlas_66
+  - first:
+      213: 21300134
+    second: HallAtlas_67
+  - first:
+      213: 21300136
+    second: HallAtlas_68
+  - first:
+      213: 21300138
+    second: HallAtlas_69
+  - first:
+      213: 21300140
+    second: HallAtlas_70
+  - first:
+      213: 21300142
+    second: HallAtlas_71
+  - first:
+      213: 21300144
+    second: HallAtlas_72
+  - first:
+      213: 21300146
+    second: HallAtlas_73
+  - first:
+      213: 21300148
+    second: HallAtlas_74
+  - first:
+      213: 21300150
+    second: HallAtlas_75
+  - first:
+      213: 21300152
+    second: HallAtlas_76
+  - first:
+      213: 21300154
+    second: HallAtlas_77
+  - first:
+      213: 21300156
+    second: HallAtlas_78
+  - first:
+      213: 21300158
+    second: HallAtlas_79
+  - first:
+      213: 21300160
+    second: HallAtlas_80
+  - first:
+      213: 21300162
+    second: HallAtlas_81
+  - first:
+      213: 21300164
+    second: HallAtlas_82
+  - first:
+      213: 21300166
+    second: HallAtlas_83
+  - first:
+      213: 21300168
+    second: HallAtlas_84
+  - first:
+      213: 21300170
+    second: HallAtlas_85
+  - first:
+      213: 21300172
+    second: HallAtlas_86
+  - first:
+      213: 21300174
+    second: HallAtlas_87
+  - first:
+      213: 21300176
+    second: HallAtlas_88
+  - first:
+      213: 21300178
+    second: HallAtlas_89
+  - first:
+      213: 21300180
+    second: HallAtlas_90
+  - first:
+      213: 21300182
+    second: HallAtlas_91
+  - first:
+      213: 21300184
+    second: HallAtlas_92
+  - first:
+      213: 21300186
+    second: HallAtlas_93
+  - first:
+      213: 21300188
+    second: HallAtlas_94
+  - first:
+      213: 21300190
+    second: HallAtlas_95
+  - first:
+      213: 21300192
+    second: HallAtlas_96
+  - first:
+      213: 21300194
+    second: HallAtlas_97
+  - first:
+      213: 21300196
+    second: HallAtlas_98
+  - first:
+      213: 21300198
+    second: HallAtlas_99
+  - first:
+      213: 21300200
+    second: HallAtlas_100
+  - first:
+      213: 21300202
+    second: HallAtlas_101
+  - first:
+      213: 21300204
+    second: HallAtlas_102
+  - first:
+      213: 21300206
+    second: HallAtlas_103
+  - first:
+      213: 21300208
+    second: HallAtlas_104
+  - first:
+      213: 21300210
+    second: HallAtlas_105
+  - first:
+      213: 21300212
+    second: HallAtlas_106
+  - first:
+      213: 21300214
+    second: HallAtlas_107
+  - first:
+      213: 21300216
+    second: HallAtlas_108
+  - first:
+      213: 21300218
+    second: HallAtlas_109
+  - first:
+      213: 21300220
+    second: HallAtlas_110
+  - first:
+      213: 21300222
+    second: HallAtlas_111
+  - first:
+      213: 21300224
+    second: HallAtlas_112
+  - first:
+      213: 21300226
+    second: HallAtlas_113
+  - first:
+      213: 21300228
+    second: HallAtlas_114
+  - first:
+      213: 21300230
+    second: HallAtlas_115
+  - first:
+      213: 21300232
+    second: HallAtlas_116
+  - first:
+      213: 21300234
+    second: HallAtlas_117
+  - first:
+      213: 21300236
+    second: HallAtlas_118
+  - first:
+      213: 21300238
+    second: HallAtlas_119
+  - first:
+      213: 21300240
+    second: HallAtlas_120
+  - first:
+      213: 21300242
+    second: HallAtlas_121
+  - first:
+      213: 21300244
+    second: HallAtlas_122
+  - first:
+      213: 21300246
+    second: HallAtlas_123
+  - first:
+      213: 21300248
+    second: HallAtlas_124
+  - first:
+      213: 21300250
+    second: HallAtlas_125
+  - first:
+      213: 21300252
+    second: HallAtlas_126
+  - first:
+      213: 21300254
+    second: HallAtlas_127
+  - first:
+      213: 21300256
+    second: HallAtlas_128
+  - first:
+      213: 21300258
+    second: HallAtlas_129
+  - first:
+      213: 21300260
+    second: HallAtlas_130
+  - first:
+      213: 21300262
+    second: HallAtlas_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HallAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1348
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36931cf7a163c345afaebb2115c9930
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6f40dbf3effab40af3cd6f499c6d00
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1077
+        width: 15
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba78b6e1e7e6ba446a5e3241eac78847
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 44
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1429c3b342ac8fc42a9276d1d5dd3b58
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 906
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57a105e8529b944eaeb81d9820faec9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 906
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8393c63354c2c6547bbb293a015d9a44
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 906
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e760cce97b8b3fa4d8ef1e4472a3fc53
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 906
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abe804de62589947b773adc28b488f3
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 906
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b29dd90dddb784d911876c9985f81d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 906
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a219589522fc41a4aa20ed6825b28f77
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 906
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30db4bb18e12043b4447e069698464
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 906
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02db4ae08b159ee4daae2ac6abdf8c4e
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 906
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593157a5d71ca9e42a83806d22c7c5a9
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 906
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e62ddee4fdde7409d420fe14c75087
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 934
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996610f4c1b4554bb698a133a754937
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 172
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0cfce9c5aa4041862ec80aea4c3dd
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 848
+        width: 172
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffd691a0a49fdd4b885ef12efb5957e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 848
+        width: 156
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ec0aef459d3324992d0e43c601d1a7
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 848
+        width: 142
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500387e254492da4682463cb857c7d38
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 849
+        width: 83
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a38deb10a94a6543b1ec59a8d330c30
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 848
+        width: 74
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ef75c69a88c8f44b10c7ae871f3fda
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 876
+        width: 76
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed8e5d994e5ca84a80fa3eb0e65418e
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 848
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb17b685a92acc4c8498807fe637f16
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 853
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ecb847c17daba4dbbb694e9ebc8c9a
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 848
+        width: 101
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80eb56e38304354ea8b37e434fa8d98
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 99
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765698b5087726b43a2e4e9413cfb836
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 792
+        width: 113
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a790a4fe15e9c44b9fe7eede9eafaa0
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 790
+        width: 110
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9472db54d9f3c3940a2d486ee46e4ae8
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 790
+        width: 86
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20593f24fbd7a404bb0abe1bfa3c9674
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 790
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0394a03d5045714bbd34097962d2578
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 779
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f444fb9df846144a29df0d5a11cef0
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 815
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0740a6abf3d422749a25027d275aa8a4
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 779
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e40c2cb6656304bab4fa7f30ef3627
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 779
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6456eefa3f4d2f8439bdb7538091a1b8
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 780
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a0475f21b1572449ad42358ea89e7b
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 821
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ead219eacf1e743bd1cb857ea4b81d
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 799
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb8f22ce95c511478f2598a16bfb931
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 790
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef87cba6b0491c4a9cf8789379af0b5
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 780
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b272186f553af24cb02a9d401a812a8
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 779
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0844b6d19cf0dc942b8244951c36fd0f
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 671
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7706f8f32bbe74583991260c3662b2
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 671
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1599bdee0f775647baedf06d2ea1d7f
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 671
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aaf69eee469104fb9bdcccc034782e
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 671
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e4a63f0f13724382a1f03ce8d0753
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 671
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaea8c297b970c4591cdd2390f0f621
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_54
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 671
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35edd2d0bab266d4cbce4c579ae08736
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_55
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 671
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8705953abf0173a4196ae7f9f223ba8d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_57
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 751
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48209b0f9eace3446be56329409b9716
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_59
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 671
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b19573e7e0a9f4ea5d02d3e052a38c
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 529
+        width: 139
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd5dd5bebaf6e45a36ceb671992cca
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_61
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 595
+        width: 222
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377a595c20f21a9438ec6903c08d8aa1
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_62
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 595
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea00698fadf81c41892b4f4e5e64450
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_65
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 529
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c6049f43876524a80b1db1e590e8e7
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_66
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 589
+        width: 212
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e5dda33d46b74481dfc062f3dfd03
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_67
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 639
+        width: 102
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399bf54fdcfabc84d9155dc76295ad48
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_68
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 639
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c54251c1d8734db5856ece17e43f5
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_69
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 529
+        width: 266
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a3dc0e1d23fdd48ab8382aff3c3c42
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_71
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 529
+        width: 232
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a613a65149b6a8044b1392d004de026d
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_72
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 529
+        width: 125
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36779f3e652d8a43aada777c6ab84f1
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 155
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc4637cb930464438fe7c5bb5358e07
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 388
+        width: 146
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0069e65edcdd04f97ac9ef610da186
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_76
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 395
+        width: 111
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4049e5bba9eeffb4d8d4068e2abbbc9e
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_78
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 388
+        width: 141
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0490860dd0a41f4493067d182a5de60
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_79
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 388
+        width: 147
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399d8c72f0bee5d4ebc07e9a9a75490a
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_80
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 388
+        width: 149
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c671e8a37ba96f41a1e7805fea334af
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 402
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc244c41554054aac2ca86b0426feb
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_89
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 359
+        width: 340
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b828874c43aa7ab438b610cd59679a63
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_90
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 332
+        width: 157
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba6e4e6f811404398442d1064b2260
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_91
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 332
+        width: 114
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9445252662ed346a13828027c2c38e
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_92
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 332
+        width: 344
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d64c79be4e0a6543982a2f57ecf808b
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 399
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c76ed50dd5495143a891cd09ffa5e11
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 276
+        width: 399
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d444772d793c2145bb5be56ded38187
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_95
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 276
+        width: 199
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dbe11c05c482447a751831551bdb66
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 399
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3b71ab3810b8d40b146281154a9357
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_97
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 399
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745e3e430a24aff4491eaf597bbe6826
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_98
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 221
+        width: 200
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad54652e6f18f749929efa2c5b4cbb7
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 399
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a42b19a89fa1e4ebe627dd150c23f2
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 164
+        width: 399
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c029a6d7d4237f4ca975c23d1631f5b
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_104
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 165
+        width: 200
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b1ea03d1a989b4bbb1231ab8dd13c9
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_108
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 164
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad7d06dbcae114a88f40c7cb772923
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 350
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156b8df22c68f6e4ebf1b3e323531fe6
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_111
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 83
+        width: 321
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7942ae8fdeeef424d864ab400be3c786
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_113
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 83
+        width: 281
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005f758d896484e4586c1ef30f525b60
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_114
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 83
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e34f1d1c242e4da933cbbe3aa1ca5
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 403
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0bb16e80030e04fa4f499e29e1c16f
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_116
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 416
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281f17d1336cca242a611e5c86aa15f2
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_117
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 59
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555b84cb71f311348b63c55d4d363375
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_119
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 59
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298f7b19444902b418fba52c3e4315a5
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_123
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 59
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e1ca80896065c4bbfcfa39b3a94275
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_124
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 59
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88a6591e9c89945a47d2388c0fbe48
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_125
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 59
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c681d71e0180f54aa8ebbae4db6a957
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_126
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 59
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5081edc55f1eacb449a91e25dc420b70
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_127
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 59
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c70a85acddbb4547afa822c38879773
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_128
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2
+        width: 200
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e25d93e1279acd40b7160a2ca553690
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 400
+        width: 127
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace6bea7699d6c4b94decf69643f93d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 528
+        width: 122
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f38522173ba174cab269713473c57c
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HallAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 746
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c07b51de0edc64099e652e14eb1591
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b07fca4deedf7a54190e266b35432f61
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,942 @@
+fileFormatVersion: 2
+guid: 3047b714aa382af4f89ac8ba310a0112
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_0"
+  - first:
+      213: 21300002
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_1"
+  - first:
+      213: 21300004
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_2"
+  - first:
+      213: 21300006
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_3"
+  - first:
+      213: 21300008
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_4"
+  - first:
+      213: 21300010
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_5"
+  - first:
+      213: 21300012
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_6"
+  - first:
+      213: 21300014
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_7"
+  - first:
+      213: 21300016
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_8"
+  - first:
+      213: 21300018
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_9"
+  - first:
+      213: 21300020
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_10"
+  - first:
+      213: 21300022
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_11"
+  - first:
+      213: 21300024
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_12"
+  - first:
+      213: 21300026
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_13"
+  - first:
+      213: 21300028
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_14"
+  - first:
+      213: 21300030
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_15"
+  - first:
+      213: 21300032
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_16"
+  - first:
+      213: 21300034
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_17"
+  - first:
+      213: 21300036
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_18"
+  - first:
+      213: 21300038
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_19"
+  - first:
+      213: 21300040
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_20"
+  - first:
+      213: 21300042
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_21"
+  - first:
+      213: 21300044
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_22"
+  - first:
+      213: 21300046
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_23"
+  - first:
+      213: 21300048
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_24"
+  - first:
+      213: 21300050
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_25"
+  - first:
+      213: 21300052
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_26"
+  - first:
+      213: 21300054
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_27"
+  - first:
+      213: 21300056
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_28"
+  - first:
+      213: 21300058
+    second: "\u666E\u901A\u5143\u7D20\u4E2D\u5956_00000(merge)_29"
+  - first:
+      213: 21300060
+    second: PTZJ_0
+  - first:
+      213: 21300062
+    second: PTZJ_1
+  - first:
+      213: 21300064
+    second: PTZJ_2
+  - first:
+      213: 21300066
+    second: PTZJ_3
+  - first:
+      213: 21300068
+    second: PTZJ_4
+  - first:
+      213: 21300070
+    second: PTZJ_5
+  - first:
+      213: 21300072
+    second: PTZJ_6
+  - first:
+      213: 21300074
+    second: PTZJ_7
+  - first:
+      213: 21300076
+    second: PTZJ_8
+  - first:
+      213: 21300078
+    second: PTZJ_9
+  - first:
+      213: 21300080
+    second: PTZJ_10
+  - first:
+      213: 21300082
+    second: PTZJ_11
+  - first:
+      213: 21300084
+    second: PTZJ_12
+  - first:
+      213: 21300086
+    second: PTZJ_13
+  - first:
+      213: 21300088
+    second: PTZJ_14
+  - first:
+      213: 21300090
+    second: PTZJ_15
+  - first:
+      213: 21300092
+    second: PTZJ_16
+  - first:
+      213: 21300094
+    second: PTZJ_17
+  - first:
+      213: 21300096
+    second: PTZJ_18
+  - first:
+      213: 21300098
+    second: PTZJ_19
+  - first:
+      213: 21300100
+    second: PTZJ_20
+  - first:
+      213: 21300102
+    second: PTZJ_21
+  - first:
+      213: 21300104
+    second: PTZJ_22
+  - first:
+      213: 21300106
+    second: PTZJ_23
+  - first:
+      213: 21300108
+    second: PTZJ_24
+  - first:
+      213: 21300110
+    second: PTZJ_25
+  - first:
+      213: 21300112
+    second: PTZJ_26
+  - first:
+      213: 21300114
+    second: PTZJ_27
+  - first:
+      213: 21300116
+    second: PTZJ_28
+  - first:
+      213: 21300118
+    second: PTZJ_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 0
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PTZJ_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c643477e535e343af49fc8e81af51d
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_1
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 716
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc859d18fa652cb48abfc15ae3e747d4
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_2
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 716
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e3264c3a9f80642bb2c29baf77bf64
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 716
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e927ce8801abe9c42bc8f68eaac4e95f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 716
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f379c98ea66d7ba42b1be5dba159dbd5
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_5
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 716
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01145ba84ea1cd7499ab9b8c69347c80
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56115fbeb6873542b4aeae98c0a5a66
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 537
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f38b4c9d81abe04eb441b22cbc5535c
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 537
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cadaaa8fa076441b4e9392874ff23c
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_9
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 537
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3f17c6ef880ee4e857892e4a5bc970
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_10
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 537
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcb36340b6995248a3e3dbab23b50ed
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_11
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 537
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5de45d44c6f04989dbe8e41c1e48c
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb97e0cfcaf3a8e49aec0e1138d8275a
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_13
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 358
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1478df4b74c93404aaeb9b09e2d9c6ca
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 358
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36945492c399a24ba1495c6e844e4a2
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_15
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 358
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c160a3aae3be7949a7d76022e58839e
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_16
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 358
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe463066613ae54193752f53589ae90
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_17
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 358
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0d9cbe3d570214f9fcad4b5b463cb5
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f465a7009a99f4eb0419e94e6010b8
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 179
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2aa4bfba26b37468c5ab979876f9b8
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_20
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 179
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705f7393612e2294cbda16417e46345b
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_21
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 179
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fabea4c208b4014c892b7bf7cd463b7
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_22
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 179
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9635599a140a241a1bd298ef74aeeb
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_23
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 179
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981d6a8160e4dba4e891810a94338164
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ee65593ace4da49a7db1611621c474
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac779800a0563542ada8183dc42d4c4
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0791f627f6dd19e4a9e0dc02ea36d063
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_27
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f583ab0184d3dd140b86f1b0e26f46ec
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_28
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5854e711ef297fb46abdf54474c7afbc
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PTZJ_29
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 0
+        width: 259
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ee8b98dcf0b2948af3645bfe5a4783
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5c408360ddca6a94aaf6859a36be7693
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
